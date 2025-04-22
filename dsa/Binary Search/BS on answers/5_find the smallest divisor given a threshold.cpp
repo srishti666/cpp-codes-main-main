@@ -4,7 +4,6 @@
 //TC: O(max(nums) * n)
 class Solution {
     public:
-    
         int smallestDivisor(vector<int>& nums, int threshold) {    
         int maxNum = *max_element(nums.begin(), nums.end());
         
