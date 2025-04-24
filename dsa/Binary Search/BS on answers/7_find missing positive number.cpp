@@ -1,4 +1,4 @@
-//question: 
+//question: https://leetcode.com/problems/kth-missing-positive-number/
 
 
 //brute force TC: O(n)
