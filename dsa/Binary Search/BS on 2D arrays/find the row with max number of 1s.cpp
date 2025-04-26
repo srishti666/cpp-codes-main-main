@@ -1,5 +1,7 @@
 //question: https://leetcode.com/problems/row-with-maximum-ones/description/
 
+
+//brute force  TC:  O(n X m)
 class Solution {
     public:
         vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
@@ -29,3 +31,7 @@ class Solution {
     [0, 1, 1, 1]
     
     */
+
+
+    //optimized
+
