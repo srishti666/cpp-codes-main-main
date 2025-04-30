@@ -1,6 +1,6 @@
 //question: https://leetcode.com/problems/search-a-2d-matrix-ii/
 
-//optimized TC: O(N*logM)
+//optimized TC: O(N*logM)  N = given row number, M = given column number.
 class Solution {
     public:
     bool binarySearch(vector<int>& nums, int target) {
