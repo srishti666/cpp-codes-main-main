@@ -17,8 +17,8 @@ class Solution {
         }
     
         vector<int> findPeakGrid(vector<vector<int>>& mat) {
-            int n = mat.size();
-            int m = mat[0].size();
+            int n = mat.size(); //rows
+            int m = mat[0].size(); //cols
     
             int low = 0;
             int high = m - 1;
@@ -42,4 +42,4 @@ class Solution {
             return {-1, -1};
         }
     };
-    
+
