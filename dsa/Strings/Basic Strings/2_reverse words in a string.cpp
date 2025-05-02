@@ -15,7 +15,8 @@ class Solution {
                         st.push(str);
                         str = "";
                     }
-                } else {
+                } 
+                else {
                     str += s[i];
                 }
             }
