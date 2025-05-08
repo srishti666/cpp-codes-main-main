@@ -28,6 +28,8 @@ class Solution {
 
 
     //optimized
+
+    //TC: O(n) SC: O(1)
     class Solution {
         public:
             bool isIsomorphic(string s, string t) {
