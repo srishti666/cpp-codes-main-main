@@ -1,5 +1,5 @@
 //question: https://leetcode.com/problems/longest-common-prefix/description/
-
+//TC: O(n*n)
 
 class Solution {
     public:
